@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "EditorMineSweeper",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Dario Mazzanti",
+	"CreatedByURL": "https://www.dariomazzanti.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "EditorMineSweeper",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
