@@ -21,7 +21,7 @@ There are some hardcoded limitations to the settings you can provide:
 - max width = 10
 - max height = 10
 
-You can change the value, which is shader for width and height, in the [SMineSweeperWidget.h](Source/EditorMineSweeper/Private/Widgets/SMineSweeperWidget.h#L69) file.
+You can change the value, which is shared for width and height, in the [SMineSweeperWidget.h](Source/EditorMineSweeper/Private/Widgets/SMineSweeperWidget.h#L69) file.
 
 
 
